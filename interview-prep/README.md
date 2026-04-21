@@ -44,6 +44,7 @@ interview-prep/
   interview-types/
   company-targeting/
   architect-30day-kit/
+  fresh-start-concepts/
 ```
 
 ## Quick Links
@@ -54,6 +55,15 @@ interview-prep/
 - Interview practice: `interview-types/system-design.md`, `interview-types/behavioral.md`, `interview-types/scenario-based.md`
 - Company targeting: `company-targeting/jd-mapping.md`, `company-targeting/resume-alignment.md`
 - 15-30 day prep kit start points: `architect-30day-kit/README.md`, `architect-30day-kit/01-PLAN/30_day_plan.md`
+- Fresh concept-first track: `fresh-start-concepts/00-how-to-study.md`, `fresh-start-concepts/08-concept-question-bank.md`, `fresh-start-concepts/09-visual-diagrams.md`
+
+### Fresh Start Concept Track (New)
+
+Use `fresh-start-concepts/` if you want beginner-to-advanced conceptual clarity with deep interview drills:
+- concept-by-concept explanation
+- end-to-end topic understanding
+- deep-dive interview questions per concept
+- visual architecture diagrams for easier recall
 
 ### Fast-Track Plan (New)
 

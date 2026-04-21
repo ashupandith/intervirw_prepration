@@ -9,6 +9,9 @@ This file is a quick navigator. For the full usage guide, start at [README.md](R
 3. [Interview Story Bank](interview-story-bank.md)
 4. [30-Day Architect Kit](architect-30day-kit/README.md)
 5. [30-Day Daily Plan](architect-30day-kit/01-PLAN/30_day_plan.md)
+6. [Fresh Start Study Guide](fresh-start-concepts/00-how-to-study.md)
+7. [Master Concept Question Bank](fresh-start-concepts/08-concept-question-bank.md)
+8. [Visual Diagrams](fresh-start-concepts/09-visual-diagrams.md)
 
 ## Core Architecture Track
 
