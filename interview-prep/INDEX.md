@@ -60,6 +60,15 @@ interview-prep/
     jd-mapping.md
     resume-alignment.md
     gaps-to-close.md
+
+  architect-30day-kit/
+    README.md
+    01-PLAN/30_day_plan.md
+    02-CORE_TOPICS/
+    03-QUESTION_BANK/
+    04-MOCK_INTERVIEWS/
+    05-RESUME_STORYBANK/
+    06-REVISION/
 ```
 
 ---
@@ -114,6 +123,13 @@ interview-prep/
 | `company-targeting/jd-mapping.md` | Mapping role requirements to your experience |
 | `company-targeting/resume-alignment.md` | Resume storyline alignment for interviews |
 | `company-targeting/gaps-to-close.md` | Skills and examples to strengthen before target interviews |
+| `architect-30day-kit/README.md` | Guided 15-30 day preparation system for senior architect interviews |
+| `architect-30day-kit/01-PLAN/30_day_plan.md` | Daily prep timeline with deliverables and compressed 15-day option |
+| `architect-30day-kit/02-CORE_TOPICS/` | Focused notes for Azure, microservices, AI/GenAI, and data architecture |
+| `architect-30day-kit/03-QUESTION_BANK/` | Technical and leadership interview question banks for timed practice |
+| `architect-30day-kit/04-MOCK_INTERVIEWS/mock_round_script.md` | Structured mock interview scripts for architecture and leadership rounds |
+| `architect-30day-kit/05-RESUME_STORYBANK/story_templates.md` | Story templates to build strong project and leadership narratives |
+| `architect-30day-kit/06-REVISION/one_page_revision.md` | One-page final revision sheet for pre-interview recall |
 
 ---
 
@@ -125,3 +141,5 @@ interview-prep/
 5. `leadership/decision-making.md`
 6. `ai-data/genai.md`
 7. `ai-data/rag.md`
+8. `architect-30day-kit/README.md`
+9. `architect-30day-kit/01-PLAN/30_day_plan.md`

@@ -40,7 +40,18 @@ interview-prep/
   leadership/
   interview-types/
   company-targeting/
+  architect-30day-kit/
 ```
+
+### Fast-Track Plan (New)
+
+Use `architect-30day-kit/` for a ready-to-execute 15-30 day preparation path with:
+- day-by-day schedule
+- focused core topic notes
+- technical and leadership question banks
+- mock interview scripts
+- resume story templates
+- one-page revision sheet
 
 ---
 
