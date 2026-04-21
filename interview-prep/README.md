@@ -24,12 +24,15 @@ The goal is not to memorize theory. The goal is to produce **crisp, enterprise-g
 
 ---
 
+## Master Navigation
+
+Use this file (`README.md`) as the primary navigation page.
+
 ## Folder Map
 
 ```text
 interview-prep/
   README.md
-  INDEX.md
   RULES.md
   PROFILE.md
   strengths-and-positioning.md
@@ -42,6 +45,15 @@ interview-prep/
   company-targeting/
   architect-30day-kit/
 ```
+
+## Quick Links
+
+- Core architecture tracks: `core/azure.md`, `core/architecture.md`, `core/microservices.md`, `core/security.md`
+- AI and data tracks: `ai-data/genai.md`, `ai-data/rag.md`, `ai-data/data-architecture.md`, `ai-data/data-platform-question-bank.md`
+- Leadership tracks: `leadership/decision-making.md`, `leadership/stakeholder-management.md`, `leadership/architecture-governance.md`
+- Interview practice: `interview-types/system-design.md`, `interview-types/behavioral.md`, `interview-types/scenario-based.md`
+- Company targeting: `company-targeting/jd-mapping.md`, `company-targeting/resume-alignment.md`
+- 15-30 day prep kit start points: `architect-30day-kit/README.md`, `architect-30day-kit/01-PLAN/30_day_plan.md`
 
 ### Fast-Track Plan (New)
 
